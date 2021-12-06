@@ -1,0 +1,8 @@
+span.nextPreviousArrow{
+    font-size:150px;
+    color: rgba(34, 38, 42, 0.5)
+}
+span.nextPreviousArrow:hover{
+    color: rgba(34, 38, 42)
+
+}
